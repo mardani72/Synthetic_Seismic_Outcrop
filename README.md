@@ -1,0 +1,2 @@
+# Synthetic_Seismic_Outcrop
+In this work, I am trying to exercise convolution again but without well data. I have an image of the outcrop which I took several years ago and I want to convert it to the seismic profile. Every colorful image file can be stored as a 3-dimensional array: the first and second s belong to the coordinate of a pixel(row and column) while the third one related to RGB color code.
